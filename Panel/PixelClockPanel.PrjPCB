@@ -55,7 +55,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document2]
-DocumentPath=PixelClockController.PcbDoc
+DocumentPath=PixelClockPanel.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -72,7 +72,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PDKHPRVN
 
 [Document3]
-DocumentPath=PixelClockController.PCBDwf
+DocumentPath=PixelClockPanel.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -86,27 +86,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document4]
-DocumentPath=PixelClockController.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=0
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
 DocumentUniqueId=YWUCEPJK
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for RUMBA_Wifi\Design Rule Check - PixelClockController.html
+DocumentPath=Project Outputs for RUMBA_Wifi\Design Rule Check - PixelClockPanel.html
 DItemRevisionGUID=
 
 [SearchPath1]
