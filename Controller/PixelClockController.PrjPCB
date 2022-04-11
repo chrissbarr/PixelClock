@@ -114,16 +114,16 @@ Path=H:\Projects\PCB Design\Altium\Libraries\Library\*.*
 IncludeSubFolders=1
 
 [Parameter1]
-Name=ProjectName
-Value=V3D_EnvCheck
+Name=ProjectVersionString
+Value=v1.0B
 
 [Parameter2]
 Name=ProjectOutputVersion
-Value=v1_0A
+Value=v1_0B
 
 [Parameter3]
-Name=ProjectVersionString
-Value=v1.0A
+Name=ProjectName
+Value=V3D_EnvCheck
 
 [Configuration1]
 Name=Default Configuration
