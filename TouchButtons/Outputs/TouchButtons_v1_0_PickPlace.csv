@@ -1,0 +1,18 @@
+Altium Designer Pick and Place Locations
+H:\Projects\PCB Design\RGB Clock\PixelClockPCB\TouchButtons\Outputs\TouchButtons_v1_0_PickPlace.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       05/01/24
+Time:       15:01
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"P1","Header 6","TopLayer","HDR1X6-HEADER","2.5400","15.0000","90","Header, 6-Pin"
+"MH4","Screw Hole","TopLayer","M3-Hole-2","157.0000","3.0000","0",""
+"MH3","Screw Hole","TopLayer","M3-Hole-2","157.0000","27.0000","0",""
+"MH2","Screw Hole","TopLayer","M3-Hole-2","3.0000","3.0000","0",""
+"MH1","Screw Hole","TopLayer","M3-Hole-2","3.0000","27.0000","0",""
